@@ -95,9 +95,7 @@
 
 ## Midterm
 
-- Candidate 1: Computer-based exam with internet and generative AI. (Nov 21)
-- Candidate 2: A text version game project
-- Candidate 3: Solving designated problems on LeetCode or similar platform.
+Computer-based exam with internet and generative AI. (Nov 21)
 
 ## Final Project
 
