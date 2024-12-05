@@ -99,7 +99,7 @@ Computer-based exam with internet and generative AI. (Nov 21)
 
 ## Final Project
 
-A simple game app running on Android.
+A simple game: [Specification](https://hackmd.io/@truckski/BJsEAsRXye)
 
 ## 2024 Spring Final Project
 
