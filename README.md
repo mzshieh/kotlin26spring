@@ -1,10 +1,9 @@
-# Kotlin Programming, 2024 Fall
+# Kotlin Programming, 2026 Spring
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nycu.edu.tw) mzshieh@nycu.edu.tw
 +   Teaching Assistants: 
-    +   [Ting-Shiuan Guan](mailto:allen.c@nycu.edu.tw) allen.c@nycu.edu.tw
+    +   [Ting-Shiuan Guan](mailto:allen.c@nycu.edu.tw) allen.c@nycu.edu.tw (To be confirmed)
 +   Lectures may be given online via [Google Meet](https://meet.google.com/ukj-mrcw-fyt)
-    + Recordings will be available
 
 ## Course Objectives
 
@@ -95,9 +94,9 @@
 
 ## Midterm
 
-Computer-based exam with internet and generative AI. (Nov 21)
+Computer-based exam with internet and generative AI.
 
-## Final Project
+## 2024 Fall Final Project
 
 A simple game: [Specification](https://hackmd.io/@truckski/BJsEAsRXye)
 
